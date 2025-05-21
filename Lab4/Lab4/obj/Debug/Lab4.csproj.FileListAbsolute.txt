@@ -1,0 +1,10 @@
+C:\Users\vladn\source\repos\ЯПИМТ\Lab4\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\vladn\source\repos\ЯПИМТ\Lab4\Lab4\bin\Debug\Lab4.exe
+C:\Users\vladn\source\repos\ЯПИМТ\Lab4\Lab4\bin\Debug\Lab4.pdb
+C:\Users\vladn\source\repos\ЯПИМТ\Lab4\Lab4\obj\Debug\Lab4.csproj.AssemblyReference.cache
+C:\Users\vladn\source\repos\ЯПИМТ\Lab4\Lab4\obj\Debug\Lab4.Form1.resources
+C:\Users\vladn\source\repos\ЯПИМТ\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+C:\Users\vladn\source\repos\ЯПИМТ\Lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.cache
+C:\Users\vladn\source\repos\ЯПИМТ\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+C:\Users\vladn\source\repos\ЯПИМТ\Lab4\Lab4\obj\Debug\Lab4.exe
+C:\Users\vladn\source\repos\ЯПИМТ\Lab4\Lab4\obj\Debug\Lab4.pdb
